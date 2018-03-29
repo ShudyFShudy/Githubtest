@@ -22,3 +22,6 @@ body{
 img#myImg {
     filter:blur(5px);
 }
+img.myImage {
+    width: 100px; height: 100px;
+}

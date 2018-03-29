@@ -1,27 +1,18 @@
-@media only screen and (max-width: 500px) {
-    .text {
-        width: 100%;
-    }
-}
 h1{
-    background-size: 50px;
-
+    font-size: 100px;
+    text-align: center;
 }
 h2{
     color: firebrick;
-    background-size: 70px;
+    font-size: 70px;
+    text-align: center;
 }
-body{
+img.Pi {
     background-repeat: no-repeat;
     background-position: top;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiz3NiTSo6KAJZBKFDikKBueuE7sgzqI6uLQbbgpEf4GS2MrbNBA");
     background-color: White;
     background-attachment: fixed;
     background-size: contain;
-}
-img#myImg {
     filter:blur(5px);
-}
-img.myImage {
-    width: 100px; height: 100px;
+    width: 100%; height: 300px;
 }

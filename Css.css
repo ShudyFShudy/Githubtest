@@ -14,11 +14,10 @@ h2{
 body{
     background-repeat: no-repeat;
     background-position: top;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3EKv5VDPQ2oZfJdRMSIyasXzPiFYPnNg9mewTPTT3rK7FQcJ");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiz3NiTSo6KAJZBKFDikKBueuE7sgzqI6uLQbbgpEf4GS2MrbNBA");
     background-color: White;
     background-attachment: fixed;
-    background-size: 100px;
-
+    background-size: contain;
 }
 img#myImg {
     filter:blur(5px);

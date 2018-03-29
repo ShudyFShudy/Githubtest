@@ -16,3 +16,8 @@ img.Pi {
     filter:blur(5px);
     width: 100%; height: 300px;
 }
+.group-item a{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}

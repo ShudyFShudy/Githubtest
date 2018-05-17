@@ -1,23 +1,6 @@
-h1{
+button {
+    padding: 50px;
+    margin-left: 37%;
+    display: block;
     font-size: 100px;
-    text-align: center;
-}
-h2{
-    color: firebrick;
-    font-size: 70px;
-    text-align: center;
-}
-img.Pi {
-    background-repeat: no-repeat;
-    background-position: top;
-    background-color: White;
-    background-attachment: fixed;
-    background-size: contain;
-    filter:blur(5px);
-    width: 100%; height: 300px;
-}
-a{
-    font-size: 60px;
-    color: black;
-    float: top;
 }

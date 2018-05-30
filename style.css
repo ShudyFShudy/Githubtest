@@ -1,6 +1,10 @@
-button {
+.fst {
     padding: 50px;
     margin-left: 37%;
     display: block;
     font-size: 100px;
+}
+.scd {
+    padding: 40px;
+    margin-left: 44%;
 }
